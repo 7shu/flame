@@ -1,4 +1,5 @@
 ## next
+- Adding NineTileBox widget
 - Fixing compilations errors regarding changes on `box2_flame`
 
 ## 0.17.3
