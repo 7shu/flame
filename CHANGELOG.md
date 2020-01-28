@@ -1,3 +1,6 @@
+# next
+- Adding HasWidgetsOverlay mixin
+
 ## 0.17.4
 - Fixing compilations errors regarding changes on `box2_flame`
 
