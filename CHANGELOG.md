@@ -1,5 +1,6 @@
 ## [next]
 - Adding NineTileBox widget
+- Add splash screen docs
 
 ## 0.17.4
 - Fixing compilations errors regarding changes on `box2_flame`
